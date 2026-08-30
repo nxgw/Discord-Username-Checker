@@ -6,8 +6,8 @@ import sys
 from datetime import datetime
 
 # ================= CONFIG =================
-TARGET_USERNAMES = ["", ""]
-WEBHOOK_URL = ""
+TARGET_USERNAMES = ["4c", "3c"]
+WEBHOOK_URL = "https://discord.com/api/webhooks/1389085100297293895/buLkSg9cI7fksPMQq2SZVCtrYHDd50RfzH0fOsMXqj1cGYXswcBPilN2PK_pbwB9NU-6"
 
 CHECK_INTERVAL_SEC = 300  # 5 minutes
 
